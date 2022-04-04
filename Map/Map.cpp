@@ -566,7 +566,7 @@ int main() {
     Map<int, int> lst2(lst);
     lst.erase(3);
     lst.insert(make_pair(2, 7));
-    if(lst < lst2) cout << "POOP" << endl;
+    if(lst < lst2) cout << "LESS" << endl;
 }
 
 #endif
