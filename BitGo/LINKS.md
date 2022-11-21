@@ -1,4 +1,4 @@
-##Wallet Recovery Wizard
+# Wallet Recovery Wizard
 
 - [Source Code](https://github.com/BitGo/wallet-recovery-wizard)
 
